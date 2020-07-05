@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "basic-chat-starter",
+    "slug": "snack-9c8df059-81fe-4e9c-bed9-9be0d7c14758",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "The starter for our basic chat application"
+  }
+}
